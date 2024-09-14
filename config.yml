@@ -1,7 +1,7 @@
 baseURL: https://website.iothacking101.com
 languageCode: en-us
-title: LOTHardware
-theme: ace
+title: IoT Hacking 101
+theme: hugo-index
 pygmentsUseClasses: true
 #enableInlineShortcodes: true
 Copyright: 2024 | enesilhaydin
