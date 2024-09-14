@@ -19,10 +19,9 @@ Bluesnarfing is a type of hacking that involves using Bluetooth technology to ga
 - Malware installation: In some cases, the attacker can install malicious software on your device, which can be used to further compromise your security.
 
 
-https://ubertooth.readthedocs.io/
 
-<button type="button" class="btn btn-primary">Primary</button>
-<button type="button" class="btn btn-secondary">Secondary</button>
 
-{{< youtube sP-PYNfOK5g >}}
+<button type="button" class="btn btn-primary"><a href="">Buy</a></button>
+<button type="button" class="btn btn-secondary"><a href="https://ubertooth.readthedocs.io/">Documentation</a></button>
+
 
