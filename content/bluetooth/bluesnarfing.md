@@ -1,6 +1,6 @@
 +++
 title = "Bluesnarfing"
-description = ""
+description = "Unauthorized access to data on a Bluetooth-enabled device."
 weight = 2
 +++
 

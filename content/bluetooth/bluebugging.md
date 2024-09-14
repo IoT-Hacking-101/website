@@ -1,6 +1,6 @@
 +++
 title = "Bluebugging"
-description = ""
+description = "Taking control of a Bluetooth-enabled device."
 weight = 2
 +++
 

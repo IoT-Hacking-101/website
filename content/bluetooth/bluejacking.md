@@ -1,6 +1,6 @@
 +++
 title = "Bluejacking"
-description = ""
+description = "Sending unsolicited messages to other Bluetooth-enabled devices."
 weight = 2
 +++
 
