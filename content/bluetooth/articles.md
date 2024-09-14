@@ -1,6 +1,6 @@
 +++
 title = "Articles"
-description = "Taking control of a Bluetooth-enabled device."
+description = "List of articles about Bluetooth Hacking."
 weight = 2
 +++
 
