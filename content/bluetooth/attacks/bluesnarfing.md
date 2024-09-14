@@ -1,7 +1,7 @@
 +++
 title = "Bluesnarfing"
 description = "Unauthorized access to data on a Bluetooth-enabled device."
-weight = 2
+weight = 4
 +++
 
 {{< lead >}}
