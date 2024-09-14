@@ -2,7 +2,7 @@ baseURL = "https://website.iothacking101.com/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Ace documentation"
+title = "IoT Hacking 101"
 theme = "ace"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
@@ -31,15 +31,15 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
 name = "More from RFS"
-url = "https://vantage-design.com"
+url = "#"
 weight = 1
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i>"
-url = "https://github.com/vantagedesign/ace-documentation"
+url = "#"
 weight = 2
 
 [[menu.shortcuts]]
 name = "<button class='btn btn-success mt-n1'>Download</button>"
-url = "https://github.com/vantagedesign/ace-documentation/releases"
+url = "#"
 weight = 3
