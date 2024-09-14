@@ -51,10 +51,11 @@ Ensures data confidentiality and integrity.
 
 Define specific use cases and functionalities for Bluetooth devices.
 Provide a set of rules and procedures for how devices should interact in different scenarios.
-Examples of profiles include:
-Hands-Free Profile (HFP) for hands-free calling
-Headset Profile (HSP) for wireless headsets
-Advanced Audio Distribution Profile (A2DP) for high-quality audio streaming
-Personal Area Network Profile (PAN) for creating a personal network
+
+#### Examples of profiles include
+- Hands-Free Profile (HFP) for hands-free calling
+- Headset Profile (HSP) for wireless headsets
+- Advanced Audio Distribution Profile (A2DP) for high-quality audio streaming
+- Personal Area Network Profile (PAN) for creating a personal network
 
 {{< childpages >}}
