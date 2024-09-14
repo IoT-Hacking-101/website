@@ -1,5 +1,5 @@
 +++
-title = "Bluetooth Devices"
+title = "Bluetooth Stack"
 description = ""
 weight = 1
 +++
