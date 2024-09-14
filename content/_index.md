@@ -95,7 +95,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 					GSM Security
 				</h5>
 				<p class="card-text text-muted">
-					Learn about GSM security vulnerabilities, best practices, and how to protect your data from threats on this outdated network.
+					Explore the security landscape of GSM networks, including common vulnerabilities, best practices for protection, and strategies to safeguard your data.
 				</p>
 			</div>
 		</div>

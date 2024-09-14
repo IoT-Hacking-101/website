@@ -1,5 +1,5 @@
 +++
-title = "Usage"
+title = "Bluejacking"
 description = ""
 weight = 2
 +++
