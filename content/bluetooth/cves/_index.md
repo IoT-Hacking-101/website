@@ -1,7 +1,7 @@
 +++
 title = "Bluetooth CVEs"
 description = ""
-weight = 1
+weight = 3
 +++
 
 {{< lead >}}
