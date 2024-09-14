@@ -1,10 +1,10 @@
-baseURL: https://website.iothacking101.com
+baseURL: https://adityatelange.github.io/hugo-index/
 languageCode: en-us
-title: LOTHardware
-theme: hugo-index
+title: Index
+theme: ../../
 pygmentsUseClasses: true
-#enableInlineShortcodes: true
-Copyright: 2024 | enesilhaydin
+enableInlineShortcodes: true
+# Copyright: © hugo-index authors | [Privacy Policy](#)
 
 markup:
   highlight:
@@ -19,9 +19,9 @@ params:
   # showDescriptioninHome: true
   # hideAllTagsinHome: true
   # searchBoxPlaceholder: "Type here to search..."
-  titleIcon: logo.svg
+  titleIcon: index.png
   headers:
-    key: Device
+    key: Title
     value: Tags
     # value: Description
 
