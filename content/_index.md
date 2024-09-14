@@ -65,7 +65,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 					ZigBee Security
 				</h5>
 				<p class="card-text text-muted">
-					Folders and files are automatically added in the menu depending on your file and folder structure.
+					Learn about ZigBee security vulnerabilities and best practices for protecting your IoT devices. Discover encryption methods and mitigation strategies.
 				</p>
 			</div>
 		</div>
@@ -125,7 +125,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 					NFC Security
 				</h5>
 				<p class="card-text text-muted">
-					Built with <a href="https://getbootstrap.com" target="_blank">Bootstrap 4</a>. Fully responsive out of the box. Build and style page elements using Bootstrap.
+					Learn about the latest threats, vulnerabilities, and best practices to protect your retail network. Secure your POS systems, customer data, and more.
 				</p>
 			</div>
 		</div>
@@ -137,7 +137,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Learn IoT
+					<a href="https://fontawesome.com/" target="_blank">Learn IoT</a>
 				</h5>
 				<p class="card-text text-muted">
 					Packed with <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>. Empower your content with a shit ton of awesome icons.
