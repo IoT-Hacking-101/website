@@ -1,5 +1,5 @@
 +++
-title = "Devices"
+title = "New Page"
 description = "Taking control of a Bluetooth-enabled device."
 weight = 2
 +++
