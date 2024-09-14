@@ -31,7 +31,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
 name = "Discord"
-url = "#"
+url = "https://discord.gg/nXSaazKW9j"
 weight = 1
 
 [[menu.shortcuts]]
