@@ -30,7 +30,7 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
 home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
-name = "More from us"
+name = "More from RFS"
 url = "https://vantage-design.com"
 weight = 1
 
