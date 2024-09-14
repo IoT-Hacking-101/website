@@ -1,7 +1,7 @@
 +++
-title = "Lead"
+title = "UART"
 description = ""
-weight = 7
+weight = 1
 +++
 
 The lead shortcode creates a paragraph with the *lead* class to make it stand out. Great for introductions or summaries.
