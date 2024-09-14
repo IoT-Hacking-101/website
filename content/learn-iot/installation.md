@@ -8,4 +8,4 @@ weight = 1
 Installing Ace is easy. Just install the Hugo binary, create a new site and install the Ace theme. 
 {{< /lead >}}
 
-## Soon
+## Description
