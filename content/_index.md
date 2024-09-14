@@ -17,7 +17,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Bluetooth
+					Bluetooth Security
 				</h5>
 				<p class="card-text text-muted">
 					Static files generated in less than a second. And served to your visitors just as fast.
@@ -32,7 +32,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Wi-fi
+					Wi-fi Security
 				</h5>
 				<p class="card-text text-muted">
 					A clean look to keep your user's attention to the content that matters: your documentation.
@@ -47,7 +47,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					RFID
+					RFID Security
 				</h5>
 				<p class="card-text text-muted">
 					Hugo does not require Java, Python or Ruby and is available as a simple binary or through NPM and other package managers.
@@ -62,7 +62,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					ZigBee
+					ZigBee Security
 				</h5>
 				<p class="card-text text-muted">
 					Folders and files are automatically added in the menu depending on your file and folder structure.
@@ -77,7 +77,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					LoRA
+					LoRA Security
 				</h5>
 				<p class="card-text text-muted">
 					Easily find the content you look for through the search function.
@@ -92,7 +92,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					GSM
+					GSM Security
 				</h5>
 				<p class="card-text text-muted">
 					Code highlighting. Include code samples with a copy button. If it’s HTML, you can also render the code.
@@ -107,7 +107,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Useful shortcodes.
+					NRF Security
 				</h5>
 				<p class="card-text text-muted">
 					Code, buttons, alerts, leads, collapse, panels, images, videos and more.
