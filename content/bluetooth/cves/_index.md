@@ -11,13 +11,7 @@ Shortcodes are a great way to add some more advanced elements to your page. Code
 
 ## Best Bluetooth Tools
 
-<tr>
-	 {{ range .Params.table }}
-			<th>
-				{{ .title }}
-	        	</th>
-		{{ end }}
-</tr>
+wait fot it!
 
 
 {{< childpages >}}
