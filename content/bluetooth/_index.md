@@ -18,4 +18,3 @@ Shortcodes are a great way to add some more advanced elements to your page. Code
 - Use Reputable Bluetooth Accessories: Avoid purchasing accessories from unknown or untrusted sources.
 - Avoid Public Bluetooth Networks: Public networks can be more susceptible to attacks.
 - Consider Using Bluetooth Low Energy (BLE): BLE offers enhanced security features and lower power consumption.
-{{< childpages >}}
