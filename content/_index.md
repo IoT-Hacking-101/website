@@ -1,10 +1,10 @@
 +++
-title = "Ace documentation"
+title = "IoT Security"
 description = ""
 +++
 
 {{< lead >}}
-Ace is a theme for <a href="https://gohugo.io" target="_blank">Hugo</a>, a fast static website generator written in Go, that allows you to easily write well organized and clean documentation for your projects. It's as easy as writing your content in Markdown, running Hugo to generate static HTML, CSS and Javascript files and deploying those to your web server.
+This project, IoT Hacking 101, aims to provide a comprehensive understanding of IoT security and the potential threats that exist.
 {{< /lead >}}
 
 
@@ -17,7 +17,7 @@ Ace is a theme for <a href="https://gohugo.io" target="_blank">Hugo</a>, a fast 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Fast.
+					Bluetooth
 				</h5>
 				<p class="card-text text-muted">
 					Static files generated in less than a second. And served to your visitors just as fast.
@@ -32,7 +32,7 @@ Ace is a theme for <a href="https://gohugo.io" target="_blank">Hugo</a>, a fast 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Minimalistic.
+					Wi-fi
 				</h5>
 				<p class="card-text text-muted">
 					A clean look to keep your user's attention to the content that matters: your documentation.
@@ -47,7 +47,7 @@ Ace is a theme for <a href="https://gohugo.io" target="_blank">Hugo</a>, a fast 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					For every project.
+					RFID
 				</h5>
 				<p class="card-text text-muted">
 					Hugo does not require Java, Python or Ruby and is available as a simple binary or through NPM and other package managers.
@@ -62,7 +62,7 @@ Ace is a theme for <a href="https://gohugo.io" target="_blank">Hugo</a>, a fast 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Automatic.
+					ZigBee
 				</h5>
 				<p class="card-text text-muted">
 					Folders and files are automatically added in the menu depending on your file and folder structure.
@@ -77,7 +77,7 @@ Ace is a theme for <a href="https://gohugo.io" target="_blank">Hugo</a>, a fast 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Full search.
+					LoRA
 				</h5>
 				<p class="card-text text-muted">
 					Easily find the content you look for through the search function.
@@ -92,7 +92,7 @@ Ace is a theme for <a href="https://gohugo.io" target="_blank">Hugo</a>, a fast 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Code hightlighting.
+					GSM
 				</h5>
 				<p class="card-text text-muted">
 					Code highlighting. Include code samples with a copy button. If it’s HTML, you can also render the code.

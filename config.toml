@@ -40,6 +40,6 @@ url = "#"
 weight = 2
 
 [[menu.shortcuts]]
-name = "<button class='btn btn-success mt-n1'>Download</button>"
+name = "<button class='btn btn-danger mt-n1'>Deviecs</button>"
 url = "#"
 weight = 3

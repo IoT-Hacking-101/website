@@ -1,7 +1,7 @@
 +++
-title = "Getting started"
+title = "Learn IoT"
 description = ""
-weight = 1
+weight = 10
 +++
 
 {{< lead >}}
