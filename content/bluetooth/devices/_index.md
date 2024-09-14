@@ -9,9 +9,14 @@ Shortcodes are a great way to add some more advanced elements to your page. Code
 {{< /lead >}}
 
 
-## Best Bluetooth Tools
+## Best Bluetooth Devices
 
-wait fot it!
+- Devices
+- RPI
+- NRF
+- BLE DevKit
+- Ubertooth
+- ESP32
 
 
 {{< childpages >}}
