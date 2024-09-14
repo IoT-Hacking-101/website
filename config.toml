@@ -30,7 +30,7 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
 home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
-name = "More from RFS"
+name = "Discord"
 url = "#"
 weight = 1
 
@@ -40,6 +40,6 @@ url = "#"
 weight = 2
 
 [[menu.shortcuts]]
-name = "<button class='btn btn-danger mt-n1'>Deviecs</button>"
+name = "<button class='btn btn-danger mt-n1'>Devices</button>"
 url = "#"
 weight = 3

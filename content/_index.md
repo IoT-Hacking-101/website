@@ -122,7 +122,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Built with Bootstrap.
+					NFC Security
 				</h5>
 				<p class="card-text text-muted">
 					Built with <a href="https://getbootstrap.com" target="_blank">Bootstrap 4</a>. Fully responsive out of the box. Build and style page elements using Bootstrap.
@@ -137,7 +137,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Icons.
+					Learn IoT
 				</h5>
 				<p class="card-text text-muted">
 					Packed with <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>. Empower your content with a shit ton of awesome icons.
