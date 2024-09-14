@@ -1,7 +1,7 @@
 +++
 title = "GSM"
 description = ""
-weight = 3
+weight = 7
 +++
 
 
