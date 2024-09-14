@@ -14,7 +14,7 @@ Shortcodes are a great way to add some more advanced elements to your page. Code
 wait fot it!
 
 {{< table style="STYLE" >}}
-| Tables        | are           | cool  |
+| CVE        | Description           | How to  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |

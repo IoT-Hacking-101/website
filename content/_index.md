@@ -1,6 +1,6 @@
 +++
 title = "IoT Security"
-description = ""
+description = "This project, IoT Hacking 101, aims to provide a comprehensive understanding of IoT security and the potential threats that exist."
 +++
 
 {{< lead >}}
