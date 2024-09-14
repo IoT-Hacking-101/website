@@ -20,7 +20,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 					Bluetooth Security
 				</h5>
 				<p class="card-text text-muted">
-					Static files generated in less than a second. And served to your visitors just as fast.
+					Learn about Bluetooth security risks and how to protect your devices from hacking. Discover best practices for securing your Bluetooth connections.
 				</p>
 			</div>
 		</div>
@@ -35,7 +35,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 					Wi-fi Security
 				</h5>
 				<p class="card-text text-muted">
-					A clean look to keep your user's attention to the content that matters: your documentation.
+					Learn how to protect your Wi-Fi network from hackers. Discover the best security practices and tools to keep your data safe.
 				</p>
 			</div>
 		</div>
@@ -95,7 +95,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 					GSM Security
 				</h5>
 				<p class="card-text text-muted">
-					Code highlighting. Include code samples with a copy button. If it’s HTML, you can also render the code.
+					Learn about GSM security vulnerabilities, best practices, and how to protect your data from threats on this outdated network.
 				</p>
 			</div>
 		</div>
