@@ -3,7 +3,7 @@ baseURL = "https://website.iothacking101.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Ace documentation"
-theme = "ace-documentation"
+theme = "ace"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
