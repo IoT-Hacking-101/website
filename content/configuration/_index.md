@@ -1,7 +1,7 @@
 +++
 title = "Configuration"
 description = ""
-weight = 2
+weight = 15
 +++
 
 {{< lead >}}
