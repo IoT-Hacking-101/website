@@ -1,7 +1,7 @@
 +++
-title = "UART Protocol"
+title = "SPI Protocol"
 description = ""
-weight = 1
+weight = 2
 +++
 
 The lead shortcode creates a paragraph with the *lead* class to make it stand out. Great for introductions or summaries.
