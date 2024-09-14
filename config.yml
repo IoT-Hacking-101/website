@@ -1,7 +1,7 @@
 baseURL: https://lothardware.com.tr/
 languageCode: en-us
 title: LOTHardware
-theme: hugo-index
+theme: ace
 pygmentsUseClasses: true
 #enableInlineShortcodes: true
 Copyright: 2024 | enesilhaydin
