@@ -1,7 +1,7 @@
 +++
 title = "LoRA Devices"
 description = ""
-weight = 7
+weight = 6
 +++
 
 The lead shortcode creates a paragraph with the *lead* class to make it stand out. Great for introductions or summaries.
