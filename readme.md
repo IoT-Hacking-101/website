@@ -1,4 +1,4 @@
-# RFS IoT Hacking
+# RFS IoT Hacking 101
 
 
 ## Key topics to be covered
