@@ -1,7 +1,7 @@
 +++
 title = "Bluetooth Security Assessment Methodology"
 description = "Taking control of a Bluetooth-enabled device."
-weight = 2
+weight = 1
 +++
 
 {{< lead >}}

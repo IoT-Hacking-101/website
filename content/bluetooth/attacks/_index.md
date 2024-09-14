@@ -1,7 +1,7 @@
 +++
 title = "Bluetooth Attacks"
 description = ""
-weight = 1
+weight = 2
 +++
 
 {{< lead >}}
