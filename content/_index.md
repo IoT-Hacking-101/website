@@ -8,7 +8,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 {{< /lead >}}
 
 
-## Features
+## Technologies
 <div class="row py-3 mb-5">
 	<div class="col-md-4">
 		<div class="card flex-row border-0">
