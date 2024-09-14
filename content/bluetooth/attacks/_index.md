@@ -1,5 +1,5 @@
 +++
-title = "Bluetooth"
+title = "Bluetooth Attacks"
 description = ""
 weight = 1
 +++
