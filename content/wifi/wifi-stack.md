@@ -13,6 +13,7 @@ Imagine the Wi-Fi stack as a layered cake, each layer responsible for a specific
 
 
 {{ $image := .Resources.Get "images/wifistack.png" }}
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
 
 
 ## Physical Layer (PHY)
