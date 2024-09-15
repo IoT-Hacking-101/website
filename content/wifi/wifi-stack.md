@@ -11,7 +11,7 @@ Imagine the Wi-Fi stack as a layered cake, each layer responsible for a specific
 
 ## Description
 
-{{ $image := .Resources.GetMatch "images/wifistack.png" }}
+{{ $image := .Resources.GetMatch "wifistack.png" }}
 {{ with $image }}
   <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
 {{ end }}
