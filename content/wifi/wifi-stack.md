@@ -11,6 +11,10 @@ Imagine the Wi-Fi stack as a layered cake, each layer responsible for a specific
 
 ## Description
 
+
+{{ $image := .Resources.Get "wifi-stack.png" }}
+
+
 ## Physical Layer (PHY)
 The foundation handles the actual transmission of radio waves.
 ### Key responsibilities
