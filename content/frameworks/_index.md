@@ -6,7 +6,7 @@ weight = 2
 
 
 {{< lead >}}
-Shortcodes are a great way to add some more advanced elements to your page. Code highlighting, a 'lead' style paragraph, images, videos, and more.
+Discover essential IoT security frameworks and tools to protect your connected devices from vulnerabilities. Explore best practices, risk assessment techniques, and practical solutions.
 {{< /lead >}}
 
 {{< childpages >}}

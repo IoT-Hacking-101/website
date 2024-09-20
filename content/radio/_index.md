@@ -6,7 +6,7 @@ weight = 1
 
 
 {{< lead >}}
-Shortcodes are a great way to add some more advanced elements to your page. Code highlighting, a 'lead' style paragraph, images, videos, and more.
+IoT devices often rely on a variety of hardware protocols to communicate with each other and with the internet. 
 {{< /lead >}}
 
 {{< childpages >}}
