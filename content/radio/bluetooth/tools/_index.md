@@ -26,6 +26,9 @@ Shortcodes are a great way to add some more advanced elements to your page. Code
 |BlueKit   |   |   |   |   |
 |BlueToolkit   |   |   |   |   |
 |BlueSpy   |   |   |   |   |
-
+|apple_bleee   |   |   |   |   |
+|bleedingtooth   |   |   |   |   |
+|BlueSpy   |   |   |   |   |
+|BlueSpy   |   |   |   |   |
 
 {{< childpages >}}
