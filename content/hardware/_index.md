@@ -1,12 +1,12 @@
 +++
 title = "Hardware"
-description = ""
+description = "Secure your IoT devices with the latest hardware extraction tools."
 weight = 5
 +++
 
 
 {{< lead >}}
-Shortcodes are a great way to add some more advanced elements to your page. Code highlighting, a 'lead' style paragraph, images, videos, and more.
+Learn how to extract data safely and efficiently for forensic investigations and security assessments. Discover the best tools and techniques for protecting your IoT infrastructure.
 {{< /lead >}}
 
 {{< childpages >}}
