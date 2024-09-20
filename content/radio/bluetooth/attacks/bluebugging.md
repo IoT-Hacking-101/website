@@ -13,9 +13,9 @@ Bluebugging is another type of Bluetooth-based hacking that involves taking cont
 
 ### How it works
 
-Pairing: The attacker pairs their device with the target device, often without the user's knowledge.
-Control: Once paired, the attacker can remotely control the target device, performing actions like making calls, sending messages, and accessing the device's camera and microphone.
-Malware installation: Similar to bluesnarfing, the attacker can also install malicious software on the target device to gain further control or steal data.
+1. The attacker pairs their device with the target device, often without the user's knowledge.
+2. Once paired, the attacker can remotely control the target device, performing actions like making calls, sending messages, and accessing the device's camera and microphone.
+3. Similar to bluesnarfing, the attacker can also install malicious software on the target device to gain further control or steal data.
 
 ### Prevention tips
 
