@@ -28,7 +28,6 @@ Shortcodes are a great way to add some more advanced elements to your page. Code
 |BlueSpy   |   |   |   |   |
 |apple_bleee   |   |   |   |   |
 |bleedingtooth   |   |   |   |   |
-|BlueSpy   |   |   |   |   |
-|BlueSpy   |   |   |   |   |
+
 
 {{< childpages >}}
