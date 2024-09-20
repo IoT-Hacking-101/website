@@ -1,7 +1,7 @@
 +++
 title = "Learn IoT"
 description = ""
-weight = 10
+weight = 1
 +++
 
 {{< lead >}}

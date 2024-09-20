@@ -1,7 +1,7 @@
 +++
 title = "Firmwares"
 description = ""
-weight = 10
+weight = 3
 +++
 
 

@@ -1,7 +1,7 @@
 +++
 title = "Hardware"
 description = ""
-weight = 8
+weight = 5
 +++
 
 
