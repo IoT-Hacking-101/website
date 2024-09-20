@@ -30,4 +30,7 @@ NB-IoT incorporates built-in security features to protect data transmission and 
 4. Smart Agriculture: Monitoring soil moisture, crop health, and irrigation systems.
 5. Smart City Applications: Managing waste collection, parking, and street lighting.
 
+
+{{< youtube 9WMbgvnpWf0 >}}
+
 {{< childpages >}}
