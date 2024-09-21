@@ -103,7 +103,9 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 
 </div>
 
-## Firmware Extraction
+## OWASP Internet of Things
 
 
-## Hacking Mobile Applications
+{{ with resources.Get "images/OWASP-IoT-Top-10-2018-final.jpg" }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+{{ end }}
