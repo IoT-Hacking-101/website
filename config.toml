@@ -11,6 +11,9 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
+
+toc = true
+
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = "G-59JTN2T1N9"
 
