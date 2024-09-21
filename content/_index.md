@@ -129,3 +129,6 @@ Lack of security support on devices deployed in production, including asset mana
 Devices or systems shipped with insecure default settings or lack the ability to make the system more secure by restricting operators from modifying configurations.
 ### I10 Lack of Physical Hardening	
 Lack of physical hardening measures, allowing potential attackers to gain sensitive information that can help in a future remote attack or take local control of the device.
+
+
+- https://owasp.org/www-project-internet-of-things/

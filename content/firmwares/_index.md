@@ -5,9 +5,13 @@ weight = 3
 +++
 
 
+
 {{< lead >}}
 Revolutionize IoT security with advanced firmware extraction techniques. Discover hidden threats and strengthen your network's defenses.
 {{< /lead >}}
+
+## OWASP Firmware Security Testing Methodology
+
 
 1. FACT Extractor - Detects container format automatically and executes the corresponding extraction tool.
 2. Firmware Mod Kit - Extraction tools for several container formats.
