@@ -92,7 +92,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					GSM Security
+					RFID / NFC Security
 				</h5>
 				<p class="card-text text-muted">
 					Explore the security landscape of GSM networks, including common vulnerabilities, best practices for protection, and strategies to safeguard your data.
@@ -100,50 +100,10 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 		</div>
 	</div>
-	<div class="col-md-4">
-		<div class="card flex-row border-0">
-			<div class="mt-3">
-				<span class="fas fa-file-code fa-2x text-primary"></span>
-			</div>
-			<div class="card-body pl-2">
-				<h5 class="card-title">
-					NRF Security
-				</h5>
-				<p class="card-text text-muted">
-					Code, buttons, alerts, leads, collapse, panels, images, videos and more.
-				</p>
-			</div>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="card flex-row border-0">
-			<div class="mt-3">
-				<span class="fas fa-mobile-alt fa-2x text-primary"></span>
-			</div>
-			<div class="card-body pl-2">
-				<h5 class="card-title">
-					NFC Security
-				</h5>
-				<p class="card-text text-muted">
-					Learn about the latest threats, vulnerabilities, and best practices to protect your retail network. Secure your POS systems, customer data, and more.
-				</p>
-			</div>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="card flex-row border-0">
-			<div class="mt-3">
-				<span class="fab fa-font-awesome-flag fa-2x text-primary"></span>
-			</div>
-			<div class="card-body pl-2">
-				<h5 class="card-title">
-					<a href="https://fontawesome.com/" target="_blank">Learn IoT</a>
-				</h5>
-				<p class="card-text text-muted">
-					Packed with <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>. Empower your content with a shit ton of awesome icons.
-				</p>
-			</div>
-		</div>
-	</div>
+
 </div>
 
+## Firmware Extraction
+
+
+## Hacking Mobile Applications
