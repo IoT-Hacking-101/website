@@ -13,19 +13,19 @@ Learn how to extract data safely and efficiently for forensic investigations and
 
 ## Hardware Tools
 
-1. Bus Blaster - Detects and interacts with hardware debug ports like UART and JTAG.
-2. Bus Pirate - Detects and interacts with hardware debug ports like UART and JTAG.
-3. Shikra - Detects and interacts with hardware debug ports like UART and JTAG. Among other protocols.
-4. JTAGULATOR - Detects JTAG Pinouts fast.
-5. Saleae - Easy to use Logic Analyzer that support many protocols 💶.
-6. Ikalogic - Alternative to Saleae logic analyzers 💶.
-7. HydraBus - Open source multi-tool hardware similar to the BusPirate but with NFC capabilities.
-8. ChipWhisperer - Detects Glitch/Side-channel attacks.
-9. Glasgow - Tool for exploring and debugging different digital interfaces.
-10. J-Link - J-Link offers USB powered JTAG debug probes for multiple different CPU cores 💶.
 
-
-
+| **Tool** | **Description** |
+|----------|-----------------|
+| **Bus Blaster**     |  Detects and interacts with hardware debug ports like UART and JTAG.               |
+| **Bus Pirate**     |  Detects and interacts with hardware debug ports like UART and JTAG.               |
+| **Shikra**     | Detects and interacts with hardware debug ports like UART and JTAG. Among other protocols.                |
+| **JTAGULATOR**     | Detects JTAG Pinouts fast.                |
+| **Saleae**     |  Easy to use Logic Analyzer that support many protocols.               |
+| **Ikalogic**     |  Alternative to Saleae logic analyzers.               |
+| **HydraBus**     |  Open source multi-tool hardware similar to the BusPirate but with NFC capabilities.               |
+| **ChipWhisperer**     | Detects Glitch/Side-channel attacks.                |
+| **Glasgow**     | Tool for exploring and debugging different digital interfaces.                |
+| **J-Link**     |  J-Link offers USB powered JTAG debug probes for multiple different CPU cores.               |
 
 
 {{< childpages >}}
