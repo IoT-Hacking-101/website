@@ -11,23 +11,23 @@ Revolutionize IoT security with advanced firmware extraction techniques. Discove
 {{< /lead >}}
 
 
-### Information gathering and reconnaissance	
+### 1 Information gathering and reconnaissance	
 Acquire all relative technical and documentation details pertaining to the target device’s firmware
-### Obtaining firmware	
+### 2 Obtaining firmware	
 Attain firmware using one or more of the proposed methods listed
-### Analyzing firmware	
+### 3 Analyzing firmware	
 Examine the target firmware’s characteristics
-### Extracting the filesystem	
+### 4 Extracting the filesystem	
 Carve filesystem contents from the target firmware
-### Analyzing filesystem contents	
+### 5 Analyzing filesystem contents	
 Statically analyze extracted filesystem configuration files and binaries for vulnerabilities
-### Emulating firmware	
+### 6 Emulating firmware	
 Emulate firmware files and components
-### Dynamic analysis	
+### 7 Dynamic analysis	
 Perform dynamic security testing against firmware and application interfaces
-### Runtime analysis	
+### 8 Runtime analysis	
 Analyze compiled binaries during device runtime
-### Binary Exploitation	
+### 9 Binary Exploitation	
 Exploit identified vulnerabilities discovered in previous stages to attain root and/or code execution
 
 
