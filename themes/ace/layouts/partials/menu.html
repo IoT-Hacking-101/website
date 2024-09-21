@@ -45,9 +45,7 @@
         <a class="nav-link p-0" href="{{.RelPermalink}}"><h6>{{safeHTML .Params.Pre}}{{.Title}}{{safeHTML .Params.Post}}</h6></a>
       {{- if ne $numberOfPages 0 }}
         <ul class="list-unstyled ml-2">
-          <li class="nav-item">
-            <a class="nav-link" href="#">External Link</a>
-          </li>
+
           {{- .Scratch.Set "pages" .Pages }}
           {{- if .Sections}}
           {{- .Scratch.Set "pages" (.Pages | union .Sections) }}
