@@ -37,6 +37,18 @@ name = "Discord"
 url = "https://discord.gg/nXSaazKW9j"
 weight = 1
 
+
+[[menu.shortcuts]]
+name = "Author"
+url = "https://discord.gg/nXSaazKW9j"
+weight = 1
+
+[[menu.shortcuts]]
+name = "Discord"
+url = "https://discord.gg/nXSaazKW9j"
+weight = 1
+
+
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i>"
 url = "#"
