@@ -9,6 +9,12 @@ Shortcodes are a great way to add some more advanced elements to your page. Code
 {{< /lead >}}
 
 
+{{< panel title="TITLE" style="STYLE" >}}
+
+[content] 
+
+{{< /panel >}}
+
 ## Best Bluetooth Devices
 
 - Devices
@@ -18,5 +24,7 @@ Shortcodes are a great way to add some more advanced elements to your page. Code
 - Ubertooth
 - ESP32
 
+- UberTooth One - Open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation.
+- Bluefruit LE Sniffer - Easy to use Bluetooth Low Energy sniffer.
 
 {{< childpages >}}

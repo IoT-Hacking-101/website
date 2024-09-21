@@ -1,7 +1,7 @@
 +++
 title = "Bluetooth Tools"
 description = ""
-weight = 1
+weight = 2
 +++
 
 {{< lead >}}
