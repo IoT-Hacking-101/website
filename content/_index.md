@@ -77,7 +77,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					LoRA Security
+					Hardware
 				</h5>
 				<p class="card-text text-muted">
 					Easily find the content you look for through the search function.
