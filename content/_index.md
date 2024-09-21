@@ -106,5 +106,4 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 ## OWASP Internet of Things
 
 
-<img src="/images/OWASP-IoT-Top-10-2018-final.jpg">
-![white kitten](/images/OWASP-IoT-Top-10-2018-final.jpg "A kitten!")
+<img src="/images/OWASP-IoT-Top-10-2018-final.jpg"></img>
