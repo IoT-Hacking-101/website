@@ -1,5 +1,5 @@
 +++
-title = "Bluetooth Stack"
+title = "Learn Bluetooth"
 description = ""
 weight = 1
 +++
