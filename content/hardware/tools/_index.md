@@ -1,5 +1,5 @@
 +++
-title = "Hardware"
+title = "Tools"
 description = "Secure your IoT devices with the latest hardware extraction tools."
 weight = 5
 +++
