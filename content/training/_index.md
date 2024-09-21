@@ -21,4 +21,13 @@ Protect your IoT mobile apps from vulnerabilities with essential security best p
 - [Rhme-2017/2018](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018.
 
 
+
+## TCM Security
+
+
+- Beginner's Guide to IoT and Hardware Hacking
+- Practical API Hacking
+- Mobile Application Penetration Testing
+
+
 {{< childpages >}}
