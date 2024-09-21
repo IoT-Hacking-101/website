@@ -4,7 +4,7 @@
             <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
                 {{ .Site.Title }}
             </a>
-            <li class="nav-item"><a class="nav-link" href="#">External Link</a></li>
+            
         </div>
         <!-- only add the navbar toggle button if there are elements within the toggle -->
         {{- if .Site.Menus.shortcuts}}
@@ -14,6 +14,7 @@
 
             <div class="collapse navbar-collapse" id="navbarMainCollapse">
               <ul class="navbar-nav ml-auto">
+                <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
                   {{- with .Site.Menus.shortcuts}}
                         {{- range sort . "Weight"}}
                             <li class="nav-item">
