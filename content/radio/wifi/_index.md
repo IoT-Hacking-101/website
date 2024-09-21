@@ -1,5 +1,5 @@
 +++
-title = "Wi-Fi"
+title = "Wi-Fi Security"
 description = ""
 weight = 2
 +++

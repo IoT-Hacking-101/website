@@ -1,5 +1,5 @@
 +++
-title = "ZigBee"
+title = "ZigBee Security"
 description = ""
 weight = 4
 +++

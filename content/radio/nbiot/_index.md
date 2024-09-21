@@ -1,5 +1,5 @@
 +++
-title = "NB-IOT"
+title = "NB-IOT Security"
 description = "A narrowband IoT technology designed for low-power, wide-area applications."
 weight = 4
 +++
