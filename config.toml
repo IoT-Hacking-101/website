@@ -23,6 +23,8 @@ disableSearch = false # default is false
 disableReadmoreNav = false # set true to hide prev/next navigation, default is false
 highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
+Image = "/images/pennys-logo.jpg"
+
 
 [markup]
   [markup.goldmark]
@@ -61,8 +63,3 @@ weight = 3
 
 
 
-
-[params]
-  Twitter_Image = "/images/pennys-logo-twitter.jpg"
-  Twitter_Site = "@PennysPetPresents"
-  Image = "/images/pennys-logo.jpg"
