@@ -1,6 +1,8 @@
 +++
 title = "IoT Security"
 description = "This project, IoT Hacking 101, aims to provide a comprehensive understanding of IoT security and the potential threats that exist."
+featured_image: "red-chew-toy-2304.jpg"
+og_type: "article"
 +++
 
 {{< lead >}}

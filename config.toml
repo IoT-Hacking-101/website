@@ -58,3 +58,11 @@ weight = 2
 name = "<button class='btn btn-warning mt-n1'>Register</button>"
 url = "#"
 weight = 3
+
+
+
+
+[params]
+  Twitter_Image = "/images/pennys-logo-twitter.jpg"
+  Twitter_Site = "@PennysPetPresents"
+  Image = "/images/pennys-logo.jpg"
