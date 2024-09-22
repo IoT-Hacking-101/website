@@ -31,9 +31,15 @@
     <link rel="canonical" href="{{ .Permalink }}">
 
     <title>
-        {{ block "title" . }}
-        {{ .Title}}{{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}
-        {{ end }}
+        {{- if .IsHome -}}
+        Home | {{ .Site.Title }}
+      {{- else if .Params.hide_site_title -}}
+        {{ .Page.Title }}
+      {{- else if .Page.Title -}}
+        {{ .Page.Title }} | {{ .Site.Title }}
+      {{- else -}}
+        {{ .Site.Title }}
+      {{- end -}}
     </title>
 
     <!-- Load stylesheet -->
