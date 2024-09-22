@@ -31,7 +31,7 @@ Analyze compiled binaries during device runtime
 Exploit identified vulnerabilities discovered in previous stages to attain root and/or code execution
 
 
-
+- https://github.com/scriptingxss/owasp-fstm
 
 
 1. FACT Extractor - Detects container format automatically and executes the corresponding extraction tool.
