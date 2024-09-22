@@ -47,7 +47,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					LoRA Security
+					Hardware Security
 				</h5>
 				<p class="card-text text-muted">
 					Hugo does not require Java, Python or Ruby and is available as a simple binary or through NPM and other package managers.
@@ -77,7 +77,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					NB-IOT Security
+					Mobile Security
 				</h5>
 				<p class="card-text text-muted">
 					Easily find the content you look for through the search function.
@@ -92,7 +92,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					RFID / NFC Security
+					Firmware Security
 				</h5>
 				<p class="card-text text-muted">
 					Explore the security landscape of GSM networks, including common vulnerabilities, best practices for protection, and strategies to safeguard your data.
