@@ -1,5 +1,5 @@
 +++
-title = "OWASP IoT"
+title = "OWASP IoT Framework"
 description = ""
 weight = 2
 +++
