@@ -6,20 +6,15 @@ weight = 2
 
 
 {{< lead >}}
-Discover essential IoT security frameworks and methodologies to protect your connected devices from vulnerabilities. Explore best practices, risk assessment techniques, and practical solutions.
+This ENISA study defines guidelines for securing the supply chain for IoT.
 {{< /lead >}}
 
 
 
-## OWASP IoT Security Testing Guide
-## OWASP Web Security Testing Guide
-## OWASP Firmware Security Testing Methodology
-## OWASP Mobile Security Testing Guide
+## Guidelines for Securing the Internet of Things
 
 
-- CSA IoT Controls Framework
-- ETSI Cyber Security for Consumer Internet of Things 
-- ENISA Baseline Security Recommendations for IoT
+- https://www.enisa.europa.eu/publications/guidelines-for-securing-the-internet-of-things
 
 
 {{< childpages >}}
