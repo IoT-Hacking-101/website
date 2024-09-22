@@ -19,7 +19,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Bluetooth Security
+					Radio Security
 				</h5>
 				<p class="card-text text-muted">
 					Learn about Bluetooth security risks and how to protect your devices from hacking. Discover best practices for securing your Bluetooth connections.
@@ -34,7 +34,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Wi-fi Security
+					Infrastructure Security
 				</h5>
 				<p class="card-text text-muted">
 					Learn how to protect your Wi-Fi network from hackers. Discover the best security practices and tools to keep your data safe.
@@ -49,7 +49,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Hardware Security
+					IoT Devices Security
 				</h5>
 				<p class="card-text text-muted">
 					Hugo does not require Java, Python or Ruby and is available as a simple binary or through NPM and other package managers.
@@ -64,7 +64,7 @@ This project, IoT Hacking 101, aims to provide a comprehensive understanding of 
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					ZigBee Security
+					Hardware Security
 				</h5>
 				<p class="card-text text-muted">
 					Learn about ZigBee security vulnerabilities and best practices for protecting your IoT devices. Discover encryption methods and mitigation strategies.
