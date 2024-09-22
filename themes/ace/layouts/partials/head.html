@@ -11,21 +11,47 @@
     <meta name="revisit-after" content="2 days">
     <meta name="author" content="RFS">
 
-    <!-- Facebook Meta Tags -->
-    <meta property="og:url" content="https://iothacking101.com/">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="IoT Security | IoT Hacking 101">
-    <meta property="og:description" content="This project, IoT Hacking 101, aims to provide a comprehensive understanding of IoT security and the potential threats that exist.">
-    <meta property="og:image" content="https://opengraph.b-cdn.net/production/images/15e2eab9-2aec-4e50-910d-7941086f6798.jpg?token=Vh29pv9WfEScl8YPTmklRU2-uGxEMyZ63ryalfd_tWs&height=675&width=1200&expires=33262345848">
-    
-    <!-- Twitter Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="twitter:domain" content="iothacking101.com">
-    <meta property="twitter:url" content="https://iothacking101.com/">
-    <meta name="twitter:title" content="IoT Security | IoT Hacking 101">
-    <meta name="twitter:description" content="This project, IoT Hacking 101, aims to provide a comprehensive understanding of IoT security and the potential threats that exist.">
-    <meta name="twitter:image" content="https://opengraph.b-cdn.net/production/images/15e2eab9-2aec-4e50-910d-7941086f6798.jpg?token=Vh29pv9WfEScl8YPTmklRU2-uGxEMyZ63ryalfd_tWs&height=675&width=1200&expires=33262345848">
 
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="{{ site.Params.Twitter_Site }}" />
+    {{- if .IsHome -}}
+     <meta name="og:title" content="{{ site.Title }}" />
+     <meta property="og:type" content="website" />
+     <meta property="og:description" content="{{ site.Params.Description }}" />
+     <meta property="og:url" content="{{ site.BaseURL }}" />
+     <meta name="og:image" content="{{ site.Params.Image }}" />
+     <meta name="twitter:creator" content="{{ .site.Params.Twitter_Site }}" />
+     <meta name="twitter:title" content="{{ site.Title" />
+     {{- if isset site.Params.Twitter_Image -}}
+       <meta name="twitter:image" content="{{ site.Params.Twitter_Image" />
+     {{- else -}}
+       <meta name="twitter:image" content="{{ .site.Params.Image }}" />
+       {{- end -}}
+     {{- end -}}
+    {{- else -}}
+     <meta name="og:title" content="{{ Page.Title }}" />
+     {{- if isset .Params.og_type -}}
+       <meta property="og:type" content="{{ .Params.og_type }}" />
+     {{- else -}}
+       <meta property="og:type" content="website" />
+     {{- end -}}
+     <meta property="og:description" content="{{ .Params.Description }}" />
+     <meta property="og:url" content="{{ .Page.Permalink }}" />
+     {{- if isset .Params.Featured_image -}}
+       <meta name="og:image/" content="{{ .Params.Featured_image }}" />
+       <meta name="twitter:image" content="{{ .Params.Featured_image }}" />
+     {{- else -}}
+       <meta name="og:image" content="{{ .site.Params.Image }}" />
+       <meta name="twitter:image" content="{{ .site.Params.Image }}" />
+     {{- end -}}
+     {{- if isset .Params.Author_twitter_handle -}}  
+       <meta name="twitter:creator" content="{{ .Params.Author_twitter_handle }}" />
+     {{- else -}}
+       <meta name="twitter:creator" content="{{ site.Params.Twitter_Site }}" />
+     {{- end -}}
+     <meta name="twitter:title" content="{{ .Page.Title }}" />
+    {{- end }}
 
 
     <link rel="canonical" href="{{ .Permalink }}">
