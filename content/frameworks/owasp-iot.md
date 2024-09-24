@@ -14,7 +14,6 @@ Discover essential IoT security frameworks and methodologies to protect your con
 ## OWASP IoT Top 10 2018
 
 
-<img src="../../themes/ace/images/OWASP-IoT-Top-10-2018-final.jpg"></img>
 
 
 ### I1 - Weak, Guessable, or Hardcoded Passwords	
@@ -40,6 +39,9 @@ Lack of physical hardening measures, allowing potential attackers to gain sensit
 
 
 - https://owasp.org/www-project-internet-of-things/
+
+
+<img src="images/OWASP-IoT-Top-10-2018-final.jpg"></img>
 
 
 {{< childpages >}}
