@@ -1,12 +1,12 @@
 +++
 title = "ENISA IoT Framework"
-description = ""
+description = "Delve into the intricacies of the ENISA IoT Framework, understanding its unique provisions for security and data protection."
 weight = 2
 +++
 
 
 {{< lead >}}
-This ENISA study defines guidelines for securing the supply chain for IoT.
+ENISA IoT Framework: An In-depth Analysis and Comprehensive Guide.
 {{< /lead >}}
 
 
