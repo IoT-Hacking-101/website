@@ -1,6 +1,6 @@
 +++
 title = "OWASP IoT Framework"
-description = ""
+description = "Discover essential IoT security frameworks and methodologies to protect your connected devices from vulnerabilities. Explore best practices, risk assessment techniques, and practical solutions."
 weight = 1
 +++
 
