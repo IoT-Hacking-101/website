@@ -39,5 +39,8 @@ Protocols: Handles communication between applications.
 - Cost-effective: Relatively inexpensive to deploy.
 - Scalability: Can support a large number of devices.
 
+{{< youtube Bsue0PzNRDU >}}
+
+
 ## Conclusion
 In summary, the LoRa stack provides a robust and efficient solution for long-range, low-power wireless communication. It's a popular choice for IoT applications that require reliable and cost-effective connectivity.
