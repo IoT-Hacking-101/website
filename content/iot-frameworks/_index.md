@@ -15,7 +15,9 @@ Discover essential IoT security frameworks and methodologies to protect your con
 ## OWASP Web Security Testing Guide
 ## OWASP Firmware Security Testing Methodology
 
-
+- Microsoft Azure IoT Hub: https://azure.microsoft.com/en-us/products/iot-hub
+- Google Cloud IoT Core: https://cloud.google.com/iot-core
+- Amazon Web Services IoT Core: https://aws.amazon.com/iot-core/
 
 - CSA IoT Controls Framework
 - ETSI Cyber Security for Consumer Internet of Things 
