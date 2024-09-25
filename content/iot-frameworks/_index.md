@@ -1,7 +1,8 @@
 +++
-title = "Best IoT Frameworks for Your Next Project"
+title = "IoT Frameworks"
 description = "Explore a comprehensive guide to IoT frameworks. Understand their importance, types, and how to select the ideal framework for your IoT application."
 weight = 2
+tags = "rfs,iot"
 +++
 
 
@@ -11,9 +12,8 @@ Discover essential IoT security frameworks and methodologies to protect your con
 
 
 
-## OWASP IoT Security Testing Guide
-## OWASP Web Security Testing Guide
-## OWASP Firmware Security Testing Methodology
+## Best IoT Frameworks for Your Next Project
+
 
 - Microsoft Azure IoT Hub: https://azure.microsoft.com/en-us/products/iot-hub
 - Google Cloud IoT Core: https://cloud.google.com/iot-core
