@@ -18,7 +18,7 @@ Learn how you can leverage the OWASP IoT Framework to tackle security challenges
 ## OWASP IoT Top 10 2018
 
 
-
+{{< panel title="TITLE" style="STYLE" >}} [content] {{< /panel >}}
 
 ### I1 - Weak, Guessable, or Hardcoded Passwords	
 Use of easily bruteforced, publicly available, or unchangeable credentials, including backdoors in firmware or client software that grants unauthorized access to deployed systems.
@@ -37,14 +37,12 @@ Use of easily bruteforced, publicly available, or unchangeable credentials, incl
 ### I2 - Insecure Network Services	
 Unneeded or insecure network services running on the device itself, especially those exposed to the internet, that compromise the confidentiality, integrity/authenticity, or availability of information or allow unauthorized remote control.
 
-
-{{< collapse title="Types of Insecure Network Services" >}} 
 1. Weak Encryption: Using weak encryption algorithms or protocols can make data vulnerable to interception and decryption.
 2. Default Configurations: Many IoT devices come with default network settings that are insecure and should be changed.
 3. Lack of Authentication: Devices that do not require authentication or use weak authentication mechanisms can be easily accessed by unauthorized users.
 4. Outdated Protocols: Using outdated network protocols can expose devices to known vulnerabilities.
 5. Lack of Access Control: Devices that do not have proper access controls can allow unauthorized users to access and control them.
-{{< /collapse >}}
+
 ### I3 - Insecure Ecosystem Interfaces	
 Insecure web, backend API, cloud, or mobile interfaces in the ecosystem outside of the device that allows compromise of the device or its related components. Common issues include a lack of authentication/authorization, lacking or weak encryption, and a lack of input and output filtering.
 ### I4 - Lack of Secure Update Mechanism	
