@@ -31,6 +31,7 @@ Use of easily bruteforced, publicly available, or unchangeable credentials, incl
 4. Repetitive Patterns: Using the same sequence of characters repeatedly (e.g., "aaaaaa") weakens a password.
 5. Hardcoded Passwords: When passwords are embedded directly into the code or firmware of a device, they can be easily discovered and exploited.
 
+
 - https://github.com/lcashdol/IoT/blob/master/passwords/list-2019-01-29.txt
 - https://swisskyrepo.github.io/HardwareAllTheThings/other/default-iot-passwords/
 
