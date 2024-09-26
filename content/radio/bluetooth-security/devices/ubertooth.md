@@ -20,5 +20,5 @@ Bluesnarfing is a type of hacking that involves using Bluetooth technology to ga
 
 
 
-<a href="https://ubertooth.readthedocs.io/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Documentation</a>
+<a href="" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Documentation</a>
 <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Buy Device</a>

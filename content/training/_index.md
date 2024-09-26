@@ -13,7 +13,6 @@ Protect your IoT mobile apps from vulnerabilities with essential security best p
 ## Free Training
 
 - [CSAW Embedded Security Challenge 2019](https://github.com/TrustworthyComputing/csaw_esc_2019) - CSAW 2019 Embedded Security Challenge (ESC).
-- [Embedded Security CTF](https://microcorruption.com) - Microcorruption: Embedded Security CTF.
 - [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
 - [IoTGoat](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
 - [Rhme-2015](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.

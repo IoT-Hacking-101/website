@@ -25,5 +25,5 @@ Bluebugging is another type of Bluetooth-based hacking that involves taking cont
 - Keep your device updated: Ensure that your device's operating system and apps are up-to-date with the latest security patches.
 - Use a Bluetooth security app: Some apps can help protect your device from bluebugging by scanning for unauthorized pairing attempts.
 
-<a href="https://ubertooth.readthedocs.io/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Documentation</a>
+<a href="" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Documentation</a>
 <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Buy Device</a>
