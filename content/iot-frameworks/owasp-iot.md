@@ -37,6 +37,9 @@ Use of easily bruteforced, publicly available, or unchangeable credentials, incl
 ### I2 - Insecure Network Services	
 Unneeded or insecure network services running on the device itself, especially those exposed to the internet, that compromise the confidentiality, integrity/authenticity, or availability of information or allow unauthorized remote control.
 
+
+{{< collapse title="TITLE" >}} RFS {{< /collapse >}}
+
 #### Types of Insecure Network Services
 
 1. Weak Encryption: Using weak encryption algorithms or protocols can make data vulnerable to interception and decryption.
