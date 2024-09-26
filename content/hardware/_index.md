@@ -27,4 +27,6 @@ Learn how to extract data safely and efficiently for forensic investigations and
 
 
 
+- https://swisskyrepo.github.io/HardwareAllTheThings/
+
 {{< childpages >}}
